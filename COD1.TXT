@@ -2,7 +2,7 @@ OBJECT Codeunit 1 ApplicationManagement
 {
   OBJECT-PROPERTIES
   {
-    Date=25/05/18;
+    Date=26/06/18;
     Time=12:00:00;
     Version List=NAVW111.00.00.22292;
   }
